@@ -2,7 +2,7 @@
 CrewAI via LiteLLM leverages LLMs in SAP Generative AI Hub
 
 ## LiteLLM
-**SAP Gen AI Hub is now an official LLM provider for LiteLLM **
+__SAP Gen AI Hub is now an official LLM provider for LiteLLM__
 
 LiteLLM is an opensource library which supports 100+ LLMs from various providers.
 With SAP’s opensource contribution to LiteLLM various LLM and agentic frameworks can be connected to SAP Gen AI Hub via LiteLLM.
