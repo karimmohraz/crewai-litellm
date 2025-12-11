@@ -1,4 +1,4 @@
-  # Agentic Loop
+# Agentic Loop
 CrewAI via LiteLLM leverages LLMs in SAP Generative AI Hub
 
 ## LiteLLM
@@ -14,7 +14,10 @@ The agentic code examples are in this [repo](https://github.com/karimmohraz/crew
 * LiteLLM_Devtoberfest2025.pdf
 
 ## Setup
-Install LiteLLM including SAP provider.
+Install LiteLLM and CrewAI.
+```
+pip install litellm crewai
+```
 
 Note: The SAP contribution to LiteLLM will be available in November (announced at TechEd 2025)
 
@@ -29,5 +32,3 @@ Provide SAP tenant's client_id, client_secret.
 ```
 python test_crew.py
 ```
-
-
