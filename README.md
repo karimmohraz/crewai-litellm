@@ -10,7 +10,7 @@ The code examples are documented [here](https://sap-contributions.github.io/lite
 The agentic code examples are in this [repo](https://github.com/sap-contributions/litellm-agentic-examples).
 
 ## Devtoberfest 2025 session
-* [Connect to SA Generative AI Hub with LiteLLM](https://www.youtube.com/live/UZz6Eh2XOog)
+* [Connect to SA Generative AI Hub with LiteLLM](https://www.youtube.com/watch?v=osVV9lqm3ms)
 * [LiteLLM_Devtoberfest2025.pdf](LiteLLM_Devtoberfest2025.pdf)
 
 ## Setup
